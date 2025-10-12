@@ -1,0 +1,2 @@
+datasets/raw/reddit_indonesia_sarcastic.json filter=lfs diff=lfs merge=lfs -text
+datasets/raw/Sarkas_Raw/reddit_indonesia_sarcastic.json filter=lfs diff=lfs merge=lfs -text
